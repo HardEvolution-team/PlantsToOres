@@ -1,0 +1,15 @@
+tile.BlockLapisPlantStem.name=Lapis Ore Stem
+item.BlockLapisPlantSeeds.name=Lapis Ore Seeds
+tile.BlockCoalPlantStem.name=Coal Ore Stem
+item.BlockCoalPlantSeeds.name=Coal Ore Seeds
+tile.BlockDiamondPlantStem.name=Diamond Ore Stem
+item.BlockDiamondPlantSeeds.name=Diamond Ore Seeds
+tile.BlockEmeraldPlantStem.name=Emerald Ore Stem
+item.BlockEmeraldPlantSeeds.name=Emerald Ore Seeds
+tile.BlockGoldPlantStem.name=Gold Ore Stem
+item.BlockGoldPlantSeeds.name=Gold Ore Seeds
+tile.BlockIronPlantStem.name=Iron Ore Stem
+item.BlockIronPlantSeeds.name=Iron Ore Seeds
+tile.BlockRedstonePlantStem.name=Redstone Ore Stem
+item.BlockRedstonePlantSeeds.name=Redstone Ore Seeds
+itemGroup.tabPlant_To_Ores=Plants To Ores
